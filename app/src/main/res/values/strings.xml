@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TugasKesatu</string>
+    <!--Intent Eksplisit-->
+    <string name="move_activity">Pindah Activity</string>
+    <string name="this_is_move_activity">Ini Hasil Pindah Activity</string>
+    <string name="back_activity">Activity Kembali</string>
+    <!--Intent Implisit-->
+    <string name="dial_number">Activity Menelpon</string>
 </resources>
