@@ -6,4 +6,6 @@
     <string name="back_activity">Activity Kembali</string>
     <!--Intent Implisit-->
     <string name="dial_number">Activity Menelpon</string>
+    <string name="whatsapp_message">Hubungi Penjual</string>
+    <string name="foto_bukti">Foto Bukti Pembelian</string>
 </resources>

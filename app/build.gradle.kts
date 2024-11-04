@@ -7,6 +7,10 @@ android {
     namespace = "com.example.tugaskesatu"
     compileSdk = 34
 
+    buildFeatures {
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId = "com.example.tugaskesatu"
         minSdk = 28
@@ -26,6 +30,7 @@ android {
             )
         }
     }
+
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8
